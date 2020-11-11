@@ -1,3 +1,6 @@
+# amplify-study
+A study application for AWS Amplify using React and GraphQL.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
